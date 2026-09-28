@@ -4,7 +4,7 @@ The raw data is not stored in this repository because of its size and the GDSC t
 
 **Dataset:** Genomics of Drug Sensitivity in Cancer (GDSC), Kaggle version
 **Link:** https://www.kaggle.com/datasets/samiraalipour/genomics-of-drug-sensitivity-in-cancer-gdsc
-**Original resource:** https://www.cancerrxgene.org/
+**Original resource:** https://www.sanger.ac.uk/tool/gdsc-genomics-drug-sensitivity-cancer/
 **Shape used in the notebook:** 242,035 rows and 19 columns
 
 ## Download steps

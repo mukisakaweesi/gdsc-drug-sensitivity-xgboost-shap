@@ -12,7 +12,7 @@ Knowing which drugs a cancer cell line responds to is a step toward precision on
 
 ## Dataset
 
-- **Source:** Genomics of Drug Sensitivity in Cancer (GDSC), Kaggle version: https://www.kaggle.com/datasets/samiraalipour/genomics-of-drug-sensitivity-in-cancer-gdsc (original resource: https://www.cancerrxgene.org/)
+- **Source:** Genomics of Drug Sensitivity in Cancer (GDSC), Kaggle version: https://www.kaggle.com/datasets/samiraalipour/genomics-of-drug-sensitivity-in-cancer-gdsc (original resource: https://www.sanger.ac.uk/tool/gdsc-genomics-drug-sensitivity-cancer/)
 - **Size:** 242,035 drug and cell line pairs, 19 columns
 - **Features:** cell line and tissue descriptors, TCGA cancer type, microsatellite instability status, screen medium, growth properties, CNA, gene expression and methylation flags, drug name, drug target and target pathway, AUC and Z_SCORE
 - **Target:** LN_IC50
