@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+# The notebook uses mean_squared_error(squared=False), which was removed in scikit-learn 1.6
+scikit-learn<1.6
+xgboost
+shap
